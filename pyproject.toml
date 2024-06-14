@@ -8,6 +8,11 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 django = "^5.0.4"
+pillow = "^10.3.0"
+beautifulsoup4 = "^4.12.3"
+django-crispy-forms = "^2.1"
+crispy-bootstrap4 = "^2024.1"
+django-markdownx = "^4.0.7"
 
 
 [build-system]
